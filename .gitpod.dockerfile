@@ -3,7 +3,7 @@
 #
 
 # Fetch Ubuntu Latest
-FROM gitpod/workspace-full:latest
+FROM bckmd/docker-ubuntu-supervisor:latest
 
 # Root
 USER root

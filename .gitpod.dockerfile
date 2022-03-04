@@ -3,7 +3,8 @@
 #
 
 # Fetch Ubuntu Latest
-FROM proxer05/ubuntu-droid-builder:latest
+FROM gitpod/workspace-full:latest
+
 # Root
 USER root
 
